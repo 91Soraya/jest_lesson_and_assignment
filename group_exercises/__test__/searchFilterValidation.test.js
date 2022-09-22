@@ -1,0 +1,4 @@
+const {
+    filterByTerm,
+} = require("../searchFilter");
+
